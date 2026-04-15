@@ -1,2 +1,1 @@
-# out-study
-# out-study
+git-javascript-study
